@@ -24028,11 +24028,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IFSP\\3 ano\\2 semestre\\PDMI6\\tp02\\PDMI6-Main\\TP02\\TarefasApp\\TarefasApp.csproj",
+      "projectUniqueName": "D:\\IFSP\\3 ano\\2 semestre\\PDMI6\\TP02 PDMI6\\TP02\\TarefasApp\\TarefasApp.csproj",
       "projectName": "TarefasApp",
-      "projectPath": "D:\\IFSP\\3 ano\\2 semestre\\PDMI6\\tp02\\PDMI6-Main\\TP02\\TarefasApp\\TarefasApp.csproj",
+      "projectPath": "D:\\IFSP\\3 ano\\2 semestre\\PDMI6\\TP02 PDMI6\\TP02\\TarefasApp\\TarefasApp.csproj",
       "packagesPath": "C:\\Users\\stefa\\.nuget\\packages\\",
-      "outputPath": "D:\\IFSP\\3 ano\\2 semestre\\PDMI6\\tp02\\PDMI6-Main\\TP02\\TarefasApp\\obj\\",
+      "outputPath": "D:\\IFSP\\3 ano\\2 semestre\\PDMI6\\TP02 PDMI6\\TP02\\TarefasApp\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xGIZPUfx8d3yj9wX5mN5V9h2r37r6rWxaOe6sc17efPTarNCt2djeDnVOLmzWrIcW2iPfT9I6PEFvpaUHaoCnA==",
+  "dgSpecHash": "5GyWTILMtclNoiUZ1C+43ZpKmzPQwu4W/ZsTn+HePIH9cLo/LHcDEIVO5/rc+9E2+1WOXo0WAFssy8Ah9nVX+g==",
   "success": true,
-  "projectFilePath": "D:\\IFSP\\3 ano\\2 semestre\\PDMI6\\tp02\\PDMI6-Main\\TP02\\TarefasApp\\TarefasApp.csproj",
+  "projectFilePath": "D:\\IFSP\\3 ano\\2 semestre\\PDMI6\\TP02 PDMI6\\TP02\\TarefasApp\\TarefasApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stefa\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\stefa\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
