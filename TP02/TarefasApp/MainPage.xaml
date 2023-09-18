@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TarefasApp.MainPage"
+             BackgroundColor="Transparent">
+
+    <ContentPage.Content>
+        <StackLayout Padding="10, 20, 10, 10">
+            <ScrollView>
+                <ListView 
+                    x:Name="lstTasks"
+                    BackgroundColor="LightGray"
+                    SeparatorVisibility="Default"
+                    RowHeight="65"
+                    ItemSelected="OnItemSelected">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell
+                                TextColor="Purple"
+                                DetailColor="MediumPurple"
+                                Text ="{Binding Title}"
+                                Detail="{Binding Description}">
+                            </TextCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </ScrollView>
+            <Button Text="Adicionar Tarefa" Clicked="OnAddTaskClicked" BackgroundColor="Purple" TextColor="White" />
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>
